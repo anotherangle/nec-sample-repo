@@ -1,1 +1,1 @@
-Hello, Welcome to the Day 2 of DevOps workshop.
+Hello, Welcome to the Day 4 of DevOps workshop.
